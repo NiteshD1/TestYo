@@ -1,6 +1,6 @@
 # TestYO
 
-This is a android project which is made to conduct **mcq based test** in an efficient manner.
+This is an Android project which is made to conduct **mcq based test** in an efficient manner.
 
 It consist three major part -
 
@@ -9,25 +9,7 @@ It consist three major part -
 
 - **User application to conduct the test in a interactive manner by using infirmation on Firebase server** 
 
-This app consists extraction part and user side application part.
-
-
-
-##  Demo
-
-https://j.gifs.com/yog8VV.gif
-
-[![Demo CountPages alpha](https://j.gifs.com/yog8VV.gif)] 
-
-
-https://j.gifs.com/NLAxlL.gif
-[![Demo CountPages alpha](https://j.gifs.com/NLAxlL.gif)] 
-         
-
-
-                                                       
-https://j.gifs.com/YWP6z0.gif     
-[![Demo CountPages alpha](https://j.gifs.com/YWP6z0.gif  )]                                   
+This app consists extraction part and user side application part.                           
                                   
                                                         
                                                       
@@ -52,13 +34,5 @@ You can check out that project by clicking [**here**](https://github.com/NiteshD
 Firebase database server is used to store the infirmation about all the test.
 - **Firebase Storage** is used to store the microsoft word files.
 
-https://j.gifs.com/gZ45rl.gif
-[![Demo CountPages alpha](https://j.gifs.com/gZ45rl.gif)]
+- **Firebase Firestore** which is a **No Sql** database is used to store the information about each test, such as docx file link, test duration, marks for correct and wrong answers, etc.
 
-- **Firebase Firestore** which is a **No Sql** database is used to store the infirmation about each test such as docx file link, test duration, marks for the correct and wrong answer etc.
-
-https://j.gifs.com/r840Kk.gif
-[![Demo CountPages alpha](https://j.gifs.com/r840Kk.gif)]
-
-#### Related Link
-- Watch demo video on youtube by clicking [**here**](https://youtu.be/YyoEzfxKS7A)
