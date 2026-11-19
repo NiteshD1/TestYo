@@ -65,5 +65,4 @@ https://j.gifs.com/r840Kk.gif
 [![Demo CountPages alpha](https://j.gifs.com/r840Kk.gif)]
 
 #### Related Link
-- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.testyo.org)
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/YyoEzfxKS7A)
