@@ -40,7 +40,7 @@ You can check out that project by clicking [**here**](https://github.com/NiteshD
 
 
 
-## Technology used
+## Technology and tools used
 
 - Ui is designed with xml language in android studio. 
 - Logo and other graphics is designed with photoshop. 
