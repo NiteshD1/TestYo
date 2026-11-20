@@ -11,7 +11,7 @@ It consist three major part -
 
 This app consists extraction part and user side application part.  
 
-##  Demo
+##  App Preview
 
 
 ![Testyo Demo](TestyoDemo.gif)
